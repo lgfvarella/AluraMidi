@@ -3,7 +3,6 @@ const listaDeTeclas = document.querySelectorAll(".tecla");
 
 function tocaSom(idDoSom) {
 	document.querySelector(idDoSom).play();
-    console.log(idDoSom)
 }
 
 for (let contador = 0; contador < listaDeTeclas.length; contador++) {

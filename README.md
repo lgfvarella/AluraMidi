@@ -3,7 +3,7 @@
 
 # Sobre o Projeto
 
-https://***
+https://lgfvarella.github.io/AluraMidi/
 
 AluraMidi é uma aplicação construída durante o curso "JavaScript para Web: Crie páginas dinâmicas" [Alura](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas)
 
@@ -28,7 +28,7 @@ A aplicação tem a finalidade de ensinar:
 - JavaScript
 
 ## Implantação em produção
-- Front end web: Vercel
+- Front end web: GitHub Pages
 
 # Como executar o projeto
 ## Front end web
